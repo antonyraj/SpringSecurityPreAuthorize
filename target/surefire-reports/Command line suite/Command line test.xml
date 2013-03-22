@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="antony-Latitude-E5420" name="com.poc.preauthorize.AuthenticationListenerTest" tests="10" failures="0" timestamp="22 Mar 2013 10:38:58 GMT" time="0.663" errors="0">
+  <testcase name="testAuthenticatedMethod" time="0.0060" classname="com.poc.preauthorize.AuthenticationListenerTest"/>
+  <testcase name="testAuthenticatedMethodWithDuplicateRoles" time="0.0" classname="com.poc.preauthorize.AuthenticationListenerTest"/>
+  <testcase name="testAuthenticatedMethodWithManyRoles" time="0.0" classname="com.poc.preauthorize.AuthenticationListenerTest"/>
+  <testcase name="testMissingRoles" time="0.0" classname="com.poc.preauthorize.AuthenticationListenerTest"/>
+  <testcase name="testMissingUsername" time="0.0010" classname="com.poc.preauthorize.AuthenticationListenerTest"/>
+  <testcase name="testNotAuthenticatedMethod" time="0.0" classname="com.poc.preauthorize.AuthenticationListenerTest"/>
+  <testcase name="testCallByeAsAdmin" time="0.023" classname="com.poc.preauthorize.MyServiceTest"/>
+  <testcase name="testCallByeAsUser" time="0.0010" classname="com.poc.preauthorize.MyServiceTest"/>
+  <testcase name="testCallHelloAsAdmin" time="0.0020" classname="com.poc.preauthorize.MyServiceTest"/>
+  <testcase name="testCallHelloAsUser" time="0.0" classname="com.poc.preauthorize.MyServiceTest"/>
+</testsuite>
